@@ -1,4 +1,4 @@
-# Teacher of the year award
+# Teacher of the Year Award
 ## This reward based on the students interaction during the class in the three impotent subjects in the school base on the number of students in each subject classes in the Educational Stages.
 ## So, I explore the school data to figure out the students and teachers interactions in classes, which will help us to identified the teachers who will be rewarded.
 
